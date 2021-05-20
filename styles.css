@@ -1,0 +1,11 @@
+h1{
+    color: firebrick
+}
+
+h1{
+    text-decoration: underline
+} 
+body {
+    background: url(fondo.jpg);
+    background-size: 100%  
+}
