@@ -9,3 +9,36 @@ body {
     background: url(fondo.jpg);
     background-size: 100%  
 }
+
+p{
+    color: darkmagenta
+}
+
+p{
+    font-size: 50px
+}
+
+p{
+    line-height: 1
+}
+
+p{
+    background-color: black;
+    width: 1250px;
+    height: 450px; 
+    margin-left: 40px;
+    opacity: 80%;
+    overflow: scroll;
+}
+
+a:hover{
+    text-decoration: underline
+}
+
+a:active{
+    color: aqua
+}
+
+a:focus{
+    background-color: floralwhite
+}
