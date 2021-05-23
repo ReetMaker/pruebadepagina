@@ -29,6 +29,8 @@ p{
     margin-left: 40px;
     opacity: 80%;
     overflow: scroll;
+    border-radius: 20px dashed aqua;
+    float: left;
 }
 
 a:hover{
@@ -36,9 +38,24 @@ a:hover{
 }
 
 a:active{
-    color: aqua
+    color: aqua   
 }
 
 a:focus{
     background-color: floralwhite
+}
+
+ul{
+    list-style-type: upper-roman
+}
+
+.cursos ul {
+    background-color: antiquewhite;
+    border-radius: 20px;
+    width: 650px;
+    box-shadow: 5px 5px 10px black;
+}
+
+img{
+    max-width: 100%;
 }
